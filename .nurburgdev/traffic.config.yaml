@@ -1,0 +1,5 @@
+testName: Python URL Shortener Load Test
+targetUrl: http://localhost:8000
+virtualUsers: 100
+duration: 60s
+rampUpTime: 10s

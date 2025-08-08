@@ -1,0 +1,2 @@
+-- Database initialization script
+-- Add your table definitions and indexes here

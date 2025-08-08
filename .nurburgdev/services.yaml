@@ -1,0 +1,10 @@
+name: urlshortener
+port: 8000
+runtime: python
+instances: 2
+env:
+  DB_HOST: devpostgresql
+  DB_NAME: devdb
+  DB_USER: devuser
+  DB_PASSWORD: password
+  PORT: 8000

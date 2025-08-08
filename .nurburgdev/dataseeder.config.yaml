@@ -1,0 +1,2 @@
+targetName: devpostgresql
+relativePath: src/db/init.sql
