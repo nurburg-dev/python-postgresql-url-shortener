@@ -1,4 +1,12 @@
-# URL Shortener Backend API (Python)
+---
+title: URL Shortener Backend API (Python)
+video: https://www.youtube.com/watch?v=7ySVWcFHz98
+tags:
+  - postgresql
+  - python
+  - rest-api
+summary: Build a URL shortener backend API for an e-commerce company using Python and FastAPI with PostgreSQL.
+---
 
 Build a URL shortener backend API for an e-commerce company using Python and FastAPI with PostgreSQL.
 
